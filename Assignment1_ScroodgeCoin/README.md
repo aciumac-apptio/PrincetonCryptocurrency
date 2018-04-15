@@ -1,0 +1,2 @@
+# ScroodgeCoin
+ScroodgeCoin
